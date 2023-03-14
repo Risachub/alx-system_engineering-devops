@@ -31,7 +31,7 @@ drwxr-xr-x 5 root root    91 Mar 13 09:29 ..
 drwxr-xr-x 2 root root     6 Mar 13 15:20 directory
 -rw-r--r-- 1 root root   799 Mar 13 14:51 iacta
 -rw-r--r-- 1 root root   226 Mar 13 15:54 list
--rw-r--r-- 1 root root     0 Mar 14 10:24 ls_cwd_content
+-rw-r--r-- 1 root root     0 Mar 14 10:32 ls_cwd_content
 drwxr-xr-x 2 root root     6 Mar 13 15:20 new
 -rw-r--r-- 1 root root    12 Mar 14 10:19 README.md
 -rw-r--r-- 1 root root    14 Mar 13 15:17 touch
